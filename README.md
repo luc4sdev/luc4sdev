@@ -1,7 +1,7 @@
 ## OLÁ
 - 👋 Me chamo Lucas!
 - 📚 Atualmente estudando programação
-- 📚 JavaScript / HTML5 / CSS3 / C#
+- 📚 JavaScript / TypeScript / ReactJS / Webpack / SASS
 
 <div>
   <a href="https://github.com/luc4sdev">
