@@ -3,7 +3,7 @@
 - 📚 Estudando programação
 - 💻 Estagiário em desenvolvimento web -  LiveFarm 
 - 📚 JavaScript / TypeScript / ReactJS / NextJS / NodeJS 
-
+<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> </header>
 <div>
   <a href="https://github.com/luc4sdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,6 +19,7 @@
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <i class="devicon-nextjs-original-wordmark"></i>
 </div>
 
   ##
