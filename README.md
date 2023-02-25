@@ -1,8 +1,9 @@
-## OLÁ
-- 👋 Me chamo Lucas!
-- 📚 Estudando programação
-- 💻 Estagiário em desenvolvimento web -  LiveFarm 
-- 📚 JavaScript / TypeScript / ReactJS / NextJS / NodeJS 
+![header](https://capsule-render.vercel.app/api?type=waving&color=1479E5&height=120&section=header)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2775F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile.;My+name+is+Lucas+Pereira.;I%60m+Web+Developer.)](https://git.io/typing-svg)
+## HELLO
+- 👋 Hi my name is Lucas!
+- 💻 Web Developer - LiveFarm 
+- 📚 TypeScript / ReactJS / NextJS / NodeJS / GraphQL / Firebase 
 
 <div>
   <a href="https://github.com/luc4sdev">
@@ -12,15 +13,16 @@
   
   <div style="display: inline_block;"><br>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <i class="devicon-nextjs-original"></i>
+  <img align="center" alt="SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
   ##
@@ -31,4 +33,5 @@
   <a href = "mailto:lucas.pfranca01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
   <a href="https://www.linkedin.com/in/lucas-pereira-37001b202/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://www.instagram.com/lucas_franca01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"></a>
+    <p> <img src="https://komarev.com/ghpvc/?username=luc4sdev&label=Profile+Visitors&color=blueviolet&style=for-the-badge"></p>
   </div>
