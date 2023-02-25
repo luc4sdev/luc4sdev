@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1479E5&height=120&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2775F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile.;My+name+is+Lucas+Pereira.;I%60m+Web+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2775F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile.;My+name+is+Lucas+Pereira.;I%60m+Web+Developer.)](https://git.io/typing-svg)
 ## HELLO
 - 👋 Hi my name is Lucas!
 - 💻 Web Developer - LiveFarm 
