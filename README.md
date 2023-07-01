@@ -3,7 +3,8 @@
 ## HELLO
 - 👋 Hi my name is Lucas!
 - 💻 Web Developer - LiveFarm 
-- 📚 TypeScript / ReactJS / NextJS / NodeJS / GraphQL / Firebase 
+- 📚 TypeScript / ReactJS / NextJS / NodeJS / GraphQL / Firebase
+- Portfolio: <a href="https://luc4sdev.vercel.app/">https://luc4sdev.vercel.app/</div>
 
 <div>
   <a href="https://github.com/luc4sdev">
