@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2775F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile.;My+name+is+Lucas+Pereira.;I%60m+Web+Developer.)](https://git.io/typing-svg)
 ## HELLO
 - 👋 Hi my name is Lucas!
-- 💻 Web Developer - LiveFarm 
+- 💻 Web Developer
 - 📚 TypeScript / ReactJS / NextJS / NodeJS / GraphQL / Firebase
 - Portfolio: <a href="https://luc4sdev.vercel.app/">https://luc4sdev.vercel.app/</div>
 
