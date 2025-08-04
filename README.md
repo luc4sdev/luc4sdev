@@ -2,13 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2775F7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile.;My+name+is+Lucas+Pereira.;I%60m+Web+Developer.)](https://git.io/typing-svg)
 ## HELLO
 - 👋 Hi my name is Lucas!
-- 💻 Web Developer
-- 📚 TypeScript / ReactJS / NextJS / NodeJS / GraphQL / Firebase
+- 💻 Full Stack Developer
+- 📚 TypeScript / ReactJS / NextJS / Node.js / DevOps
 - Portfolio: <a href="https://luc4sdev.vercel.app/">https://luc4sdev.vercel.app/</div>
 
 <div>
   <a href="https://github.com/luc4sdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!---   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
